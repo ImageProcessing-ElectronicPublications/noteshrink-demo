@@ -12,7 +12,7 @@
 **11751** bytes
 
 ![notesA1.jpg.png](notesA1.jpg.png)  
-**99562** bytes
+**99532** bytes
 
 ![notesA2.jpg.png](notesA2.jpg.png)  
 **79652** bytes
